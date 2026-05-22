@@ -28,7 +28,10 @@ Minha stack de desenvolvimento abrange tanto a criação de interfaces dinâmica
 
 ### 📁 Projetos em Destaque
 
-* [**Gerenciador de Usuários**](https://github.com/PedroJona00/Sistema-de-Gestao-de-Usuarios) - *Uma aplicação CRUD para gerenciamento de Usuarios Usando Html, Css, JavaScript, Node.js e MySQL*
+* [**Gerenciador de Usuários**](https://github.com/PedroJona00/Sistema-de-Gestao-de-Usuarios) - *Uma aplicação CRUD para gerenciamento de Usuarios Usando Html, Css, JavaScript, Node.js e MySQL.*
+
+* [**TechDex**](https://github.com/PedroJona00/TechDex) - *Pokédex desktop em Java que consome a PokéAPI em tempo real para exibir informações e artwork oficial de qualquer Pokémon, com busca por nome e seleção aleatória.*
+
 * [**Projeto Hackthon EDScript: Edson IA**](https://github.com/PedroJona00/Edson_IA)
 
 ---
